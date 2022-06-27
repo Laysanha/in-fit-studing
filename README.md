@@ -1,4 +1,4 @@
-# in-fit-studing
+# Plataforma de Evento Ignit Lab
 Project created at Rocketseat's free event platform
 
 This event was focused on React specialization.
