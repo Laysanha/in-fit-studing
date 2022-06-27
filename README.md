@@ -1,5 +1,11 @@
 # in-fit-studing
-Project created in order to be a system of academy, the goal of this is merely to be a study project, with the initial idea to be implemented a means of routes between the pages and be an intuitive system with styling with Tailwind CSS and other libraries if needed, will be developed by react.js, and the project will be created with Vite
+Project created at Rocketseat's free event platform
+
+This event was focused on React specialization.
+
+The technologies used to develop the project were ReactJS, GraphQL, GraphCMS, Apollo Client and TailwindCSS.
+
+It was a week of classes to deepen my knowledge in the most modern technologies and accelerate your evolution towards the best opportunities in programming!
 
 
 <img align="right" src="https://cdn.discordapp.com/attachments/883032990811291738/990986179061112882/unknown.png"/>
